@@ -1,0 +1,5 @@
+name: GamerNET-AntiCrash
+author: Suchtpotenzial
+main: me.suchtpotenzial.anticrasher.Main
+depend: [ProtocolLib]
+version: 1.0
